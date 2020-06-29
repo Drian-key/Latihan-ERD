@@ -1,0 +1,2 @@
+# Latihan-ERD
+BELAJAR ERD
